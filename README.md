@@ -26,7 +26,7 @@ to apply changes:
 ```
 source .bash_profile
 ```
-## 6) Congratulation! Its Done...
+## 4) Congratulation! Its Done...
 to check Pig version
 ```
 pig --version
